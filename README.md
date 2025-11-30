@@ -1,4 +1,4 @@
-# FortStack DevOps Task
+# Todo_List_Node.js_web_app
 
 ## 🚀 Overview
 This project is a **Todo List Node.js web app** that is containerized, deployed with Docker and Kubernetes, and uses CI/CD via **GitHub Actions** and **ArgoCD**.
